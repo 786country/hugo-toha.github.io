@@ -8,36 +8,33 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Data Scientist
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Entelect
+  url: "https://entelect.co.za/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate data scientist/engineer with 5 years of working experience. I build predictive data models and data pipelines. But most importantly I solve my clients problems'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "786country@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/786country"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/naeem-ahmed-78073853/"
 
 - name: Twitter
   icon: "fab fa-twitter"
@@ -53,8 +50,8 @@ socialLinks:
 badges:
 - type: certification
   name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  url: "https://www.credly.com/badges/4c1be963-3179-47ff-9dff-e1f8ab0b6419/public_url"
+  badge: "https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
 
 - type: certification
   name: Istio and IBM Cloud Kubernetes Service
@@ -67,8 +64,8 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
+  name: Problem Solving
+  percentage: 80
   color: blue
 
 - type: soft-skill-indicator
