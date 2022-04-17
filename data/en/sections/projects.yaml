@@ -21,44 +21,53 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
+- name: Power Prediction
   role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  timeline: "June 2021 – December 2021"
+  url: "https://www.angloamerican.com/sustainability"
+  summary: Estimation of energy and Green House Gas impacts using machine learning
+  tags: ["dataiku","iot","supervised learning","data engineering","databricks","azure"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Methane Analytics
+  role: Head Developer
+  timeline: "October 2020 – June 2021"
+  url: "https://www.angloamerican.com/sustainability"
+  summary: Historical statistical study of Methane and its causes within a mine. 
+  tags: ["dataiku","iot","statistics","data engineering","databricks","azure","time series analysis"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: DNAi (Automated Machine Learning)
+  role: Developer
+  timeline: "July 2019 – October 2020"
+  url: "https://www2.deloitte.com/content/dam/Deloitte/de/Documents/risk/aiStudio-DNAi-Fact-Sheet.pdf"
+  summary: Development and maintain DNAi solution to a production state and include a new Angular frontend.
+  tags: ["python","angular","mongoDB","kafka","databricks","git","PostgreSQL"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Risk Intelligence Tool
+  role: Developer
+  timeline: "October 2017 – June 2019"
+  url: "https://www2.deloitte.com/za/en/pages/risk/articles/financial-crime.html"
+  summary: Development for the creation of a risk intelligence tool, specifically the adverse media component of the tool.
+  tags: ["python","MSSQL","Flask","kafka","Natural Language Processing","git"]
+
+- name: Cloud storage KYC remediation Big Four Bank
+  role: Developer
+  timeline: "October 2017 – June 2019"
+  url: "https://www2.deloitte.com/za/en/pages/risk/articles/financial-crime.html"
+  summary: I was part of the Deloitte development team responsible for the creation of a Cloud storage KYC remediation project.
+  tags: ["Microsoft SharePoint","Python","QlikView"]
+
+- name: IDT - Matching
+  role: Developer
+  timeline: "July 2017 – July 2017"
+  url: "https://www2.deloitte.com/za/en/pages/risk/articles/financial-crime.html"
+  summary: objective of this engagement was to match invoices and payments per customer based on the amounts and dates within all accounts (no source documents). 
+  tags: ["Tableau","R"]
+
+- name: KYC Big Four Bank
+  role: Analyst
+  timeline: "Feb 2017 – July 2017"
+  url: "https://www2.deloitte.com/za/en/pages/risk/articles/financial-crime.html"
+  summary: Ascertain the correct entities in the corporate division in one of the big four banks. The project was based on an algorithm to ascertain the correct entity that would be referenced as the main client.
+  tags: ["SAP","SAS"]
+
