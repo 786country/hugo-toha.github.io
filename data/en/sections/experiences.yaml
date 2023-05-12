@@ -9,56 +9,62 @@ section:
   # hideTitle: true 
 
 # Your experiences
+# Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    name: Entelect
+    url: "https://entelect.co.za/"
+    location: Remote
+    overview: Entelect is a widely recognized company for data science and engineering solutions.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Senior Data Scientist/Engineer
+    start: Jan 2023
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Performing research on Machine Learning approaches
+    - Assisting with data engineering and solution architecture
+    - Training new team members
+    - Communicating with business data and model findings
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Data Scientist/Engineer
+    start: Oct 2020
+    end: Jan 2023
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Requirements gathering, data engineering and data modelling
+    - Developing time series forecasting models
+    - Reporting to stakeholders and performing tests to ascertain front end issues
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Revotech Computers
+    url: "https://www.facebook.com/revotech786/"
+    location: Pretoria Area, South Africa
+    overview: Revotech Computers is a supplier of laptops, tablets, and anything electronic. It also provides laptop and pc repairs and POS systems for small to medium businesses.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Director
+    start: Jan 2011
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Managing the supply of laptops, tablets, and other electronic devices
+    - Overseeing laptop and pc repairs
+    - Implementing POS systems for small to medium businesses
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Deloitte South Africa
+    url: "https://www2.deloitte.com/za/en/pages/risk/solutions/data-analytics.html"
+    location: Johannesburg Area, South Africa
+    overview: Deloitte South Africa is a multinational professional services network, offering services in audit, consulting, financial advisory, risk advisory, tax, and legal.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Consultant Advanced Analytics and Cognitive services
+    start: Oct 2018
+    end: Oct 2020
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Developing the DNAi production solution
+    - Migrating backend systems between the different front-ends
+    - Assisting with front-end wireframing
+    - Developing the Adverse Media data scraping and semantic analysis components to production state
+
+  - designation: Junior Consultant Data
+    start: Dec 2016
+    end: Oct 2018
+    responsibilities:
+    - Implementing cloud storage and maintenance
+    - Assisting with the development of matching algorithms
+    - Assisting management with an assessment with complex KYC scenarios

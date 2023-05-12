@@ -36,13 +36,13 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/naeem-ahmed-78073853/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.

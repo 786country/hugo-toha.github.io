@@ -23,7 +23,7 @@ customMenus:
 # Specify OpenGraph Headers
 openGraph:
   title: Naeem
-  type: website
+  type: Resume 
   description: Portfolio and personal blog of Naeem Ahmed.
   image: images/author/john.png
   url: https://hugo-toha.github.io
