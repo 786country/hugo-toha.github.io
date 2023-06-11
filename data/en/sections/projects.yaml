@@ -20,17 +20,60 @@ buttons:
   filter: "hobby"
 
 # your projects
+
 projects:
 
+- name: Digital Control Monitoring
+  role: Senior Data Engineer
+  timeline: "August 2022 – September 2022"
+  url: "https://www.angloamerican.com/sustainability"
+  summary: Redesign data architecture for team and improve data accessibility.
+  tags: ["mssql","azure","databricks","data factory"]
+
+
+- name: Udacity Collaboration Anglo American Inaugural Custom Project
+  role: Lead Developer
+  timeline: "January 2022 – June 2022"
+  url: "https://www.angloamerican.com/sustainability"
+  summary: Develop tailored content for Anglo American's inaugural global pilot course on Udacity.
+  tags: ["powerbi","python","data generation","digital course curation","data engineering"]
+
+
+projects:
+- name: Crop Nutrients Front End Development
+  role: Lead Data Scientist
+  timeline: "January 2022 – June 2022"
+  url: "https://www.angloamerican.com/sustainability"
+  summary: Improve and streamline web application by eliminating bugs, enhancing user experience, and rectifying functional issues.
+  tags: ["dataiku","dash","html","css","js"]
+
+
+
+- name: Moranbah Coal Processing Plant Optimisation
+  role: Lead Data Scientist
+  timeline: "March 2022 – July 2022"
+  url: "https://www.angloamerican.com/sustainability"
+  summary: Estimation of the delays caused from two major causes Strata and Ventilation/ Gas for one month prediction horizon, Investigate and report of feasibility of forecasting the events.
+  tags: ["dataiku","iot","time series analysis","data engineering","mssql"]
+
+
+- name: Gas and Strata Delay Predictions
+  role: Lead Data Scientist
+  timeline: "January 2022 – June 2022"
+  url: "https://www.angloamerican.com/sustainability"
+  summary: Estimation of the delays caused from two major causes Strata and Ventilation/ Gas for one month prediction horizon, Investigate and report of feasibility of forecasting the events.
+  tags: ["dataiku","iot","time series analysis","data engineering","mssql"]
+
+
 - name: Power Prediction
-  role: Developer
+  role: Data Scientist
   timeline: "June 2021 – December 2021"
   url: "https://www.angloamerican.com/sustainability"
   summary: Estimation of energy and Green House Gas impacts using machine learning
-  tags: ["dataiku","iot","supervised learning","data engineering","databricks","azure"]
+  tags: ["dataiku","iot","supervised learning","data engineering","databricks","azure","mssql"]
 
 - name: Methane Analytics
-  role: Head Developer
+  role: Data Scientist
   timeline: "October 2020 – June 2021"
   url: "https://www.angloamerican.com/sustainability"
   summary: Historical statistical study of Methane and its causes within a mine. 
@@ -48,7 +91,7 @@ projects:
   timeline: "October 2017 – June 2019"
   url: "https://www2.deloitte.com/za/en/pages/risk/articles/financial-crime.html"
   summary: Development for the creation of a risk intelligence tool, specifically the adverse media component of the tool.
-  tags: ["python","MSSQL","Flask","kafka","Natural Language Processing","git"]
+  tags: ["python","MSSQL","Flask","kafka","Natural Language Processing","git","pipelines"]
 
 - name: Cloud storage KYC remediation Big Four Bank
   role: Developer
