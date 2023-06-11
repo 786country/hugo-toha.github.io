@@ -54,7 +54,7 @@ projects:
   timeline: "March 2022 – July 2022"
   url: "https://www.angloamerican.com/sustainability"
   summary: Estimation of the delays caused from two major causes Strata and Ventilation/ Gas for one month prediction horizon, Investigate and report of feasibility of forecasting the events.
-  tags: ["dataiku","iot","time series analysis","data engineering","mssql"]
+  tags: ["dataiku","iot","time series analysis","data engineering","mssql","water"]
 
 
 - name: Gas and Strata Delay Predictions
